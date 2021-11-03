@@ -6,7 +6,7 @@
 
 <center>
 [Whitepaper Version 0.1]<br><br>
-Ajain Vivek <<a href='[mailto:ajain@pickmyticket.com](mailto:ajain@pickmyticket.com)'>[ajain@pickmyticket.com](mailto:ajain@pickmyticket.com)</a>><br>
+Ajain Vivek <<a href='mailto:ajain@pickmyticket.com'>ajain@pickmyticket.com</a>><br><br>
 </center>
 
 # {#Abstract}
